@@ -8,8 +8,21 @@ This project analyzes customer demographics and purchasing behavior to understan
 The dashboard was built entirely in Microsoft Excel using Pivot Tables, slicers, and visualizations.
 
 
-## Dataset Description
+## Dataset Description[Raw Practice Bike Dataset.xlsx](https://github.com/user-attachments/files/25264045/Raw.Practice.Bike.Dataset.xlsx)
+
 The dataset contains customer-level records including demographic, socioeconomic, and behavioral variables.
+# Data Dictionary – Bike Sales Dataset
+
+| Column Name        | Description |
+|--------------------|------------|
+| Age                | Customer age in years |
+| Gender             | Male or Female |
+| Marital Status     | Single or Married |
+| Education          | Customer education level |
+| Region             | Geographic region of customer |
+| Income             | Annual income of customer |
+| Commute Distance   | Distance travelled daily to work |
+| Purchased Bike     | Indicates if customer purchased a bike (Yes/No) |
 
 ## Key Variables:
 - Age
@@ -19,7 +32,7 @@ The dataset contains customer-level records including demographic, socioeconomic
 - Region
 - Income
 - Commute Distance
-- Purchased Bike (Yes/No)
+- Purchased Bike 
 
 The data was structured and cleaned in Excel before analysis.
 
@@ -35,7 +48,7 @@ The data was structured and cleaned in Excel before analysis.
 ## Data Preparation
 The following steps were performed before analysis:
 - Checked for duplicates and removed where necessary
-- Standardized categorical values (e.g., gender, marital status)
+- Standardized categorical values (e.g., gender, marital status, age grouping)
 - Verified no missing or inconsistent values
 - Structured data into an Excel Table for pivot stability
 
