@@ -105,4 +105,4 @@ The following steps were performed before analysis:
 
 ## Author
 Oluwapelumi Atanda  
-Junior Data Analyst (Excel | Research | Healthcare Data)
+Data Analyst (Excel | Research | Healthcare Data)
